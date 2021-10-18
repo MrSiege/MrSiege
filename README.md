@@ -7,11 +7,18 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
+const focus = {
+  pronouns: R.lensProp('pronouns'),
+  code: R.lensProp('code'),
+  tools: R.lensProp('tools'),
+  architecture: R.lensProp('architecture'),
+}
+
 R.compose(
-  R.set(R.lensProp('pronouns'), 'he' | 'his'),
-  R.set(R.lensProp('code'), [Javascript, Elm, Haskell, Dart]),
-  R.set(R.lensProp('tools'), [React, Redux, Node, Docker, Flutter]),
-  R.set(R.lensProp('architecture'), ['functional programming', 'Design Patterns']),
+  R.set(focus.pronouns, 'he' | 'his'),
+  R.set(focus.code, [Javascript, Elm, Haskell, Dart]),
+  R.set(focus.tools, [React, Redux, Node, Docker, Flutter]),
+  R.set(focus.architecture, ['functional programming', 'Design Patterns']),
 )
 ```
 
