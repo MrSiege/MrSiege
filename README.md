@@ -1,8 +1,18 @@
 <h3> Hi, I'm William Caulfield! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h3>
 
 <p>
-  <em>Software Enginner at <a href="http://huindata.com/">Huindata</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em>
+  <em>
+    Software Enginner at <a href="http://huindata.com/">Huindata</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+  </em>
+  <br/>
+  <em>
+    Senior Member of <a href='#'>SAR(students advanced research)</a> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+  </em>
 </p>
+
+<em>
+  Langrun University, Faculty of Science, Department of Physics, Astrophysics 
+</em>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
