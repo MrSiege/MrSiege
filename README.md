@@ -6,7 +6,7 @@
   </em>
   <br/>
   <em>
-    Senior Member of <a href='#'>SAR(students advanced research)</a> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+    Senior Member of <a href='#'>SAR(student advance research)</a> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
   </em>
 </p>
 
