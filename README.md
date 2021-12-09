@@ -31,4 +31,4 @@ R.compose(
   R.set(focus.architecture, ['functional programming', 'Design Patterns']),
 )
 ```
-<em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<em><b>I like mathematics and astrophysics, as well as computer science, and I look forward to discussing issues with you.</b> :)</em>
