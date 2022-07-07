@@ -26,7 +26,7 @@ const focus = {
 
 R.compose(
   R.set(focus.pronouns, 'he' | 'his'),
-  R.set(focus.code, [Javascript, Elm, Haskell, Dart]),
+  R.set(focus.code, [Javascript, Elm, Haskell, C]),
   R.set(focus.tools, [React, Redux, Node, Docker, Flutter]),
   R.set(focus.architecture, ['functional programming', 'Design Patterns']),
 )
